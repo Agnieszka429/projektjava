@@ -1,0 +1,1 @@
+Program jest napisany w języku Java. Program pobiera od usera liczbe i przelicza ją na pierwiastek kwadratowy (metodą Newtona)
