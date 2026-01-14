@@ -1,0 +1,1 @@
+Projekt 9 jest napisany w języku Java. Program wymyśla liczbę od 1 do 100 (z nimi włącznie), user ma 3 szanse, aby odgadnąć liczbe. Program podpowiada o ile pomylił się user.
