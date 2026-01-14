@@ -1,0 +1,1 @@
+Program jest napisany w języku Java. User podaje 3 dane (boki trójkąta) a program sprawdza czy można na tej podstawie stworzyć figure trójkąta.
