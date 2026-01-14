@@ -1,0 +1,1 @@
+Program napisany w języku Java. User podaje liczbę, a program oblicza pierwiastek kwadratowy z podanej liczby.
